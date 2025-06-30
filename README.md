@@ -1,3 +1,8 @@
-# moderationdiscordbot
+# Simple Moderation Discord Bot
 
-go to config.json and put ur token there then BOOM discord bot
+What to do?:
+
+Go to `confg.json` and put in your bot token
+
+thats it, if theres a problem shoot me a friend request on discord i'll update it
+> @6xsensitive
